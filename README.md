@@ -10,18 +10,18 @@ Weighing and Dispensing the right quantity of material prior to the manufacturin
 
 Seira-5 lets you produce the mixture in several modes of operation with full label printing capabilities. Functionality supported includes:
 
-  - Weighing and Dispensing Modes
-  - METTLER TOLEDO Weigh Module (accurate to 0.0001)
-  - Tolerances
-  - Operating Alarm Prompt
-  - Label Printing 
-  - Equipment Maintenance
+A. Weighing and Dispensing Modes
+B. METTLER TOLEDO Weigh Module (accurate to 0.0001)
+C. Tolerances
+D. Operating Alarm Prompt
+E. Label Printing 
+F. Equipment Maintenance
   
   
   This Manual covers the following topics:
   
  - Equipment startup and shutdown
- - Manual automatic mode switching
+ - Auto/Manual Mode
  - How to fill the materials
  - Generate the formula
  - Batching operation
@@ -69,7 +69,43 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 5. Turn the emergency stop switch on the left side of the chassis 90 degrees anticlockwise to turn off the main power supply of the equipment. When there is a powder, the power-off time should not exceed 30 minutes.
 
+ ## Auto/Manual Mode
+ 
+1. Enter the technician **Debugging Servo** setting,
 
+2. Switch to the manual mode, click the servo setting interface, and click **Auto Enable** to make the green light behind it turn red.
+
+3. Click to **Manual Enable**, then click to **Return to The Origin**, and wait for the completion of returning to the origin.
+
+4. Change from manual mode to automation mode, click the corresponding servo setting interface, and then click **Auto Enable** to make the red light behind it turn green,
+
+5. Then click **Return to Origin** and wait for the completion of the return to origin.
+
+ ## Materials Feeding
+
+### Scanning Powdering
+
+### Manual Powdering
+
+### Scanning Glue
+
+### Manual Glue
+
+
+## How to generate the formula
+
+## Operation
+
+## How to clean powder feeder
+
+## Powder parameter Setting
+
+## How to clean glue feeder
+## Glue parameter Setting 
+## Record View
+## Alarms and Resetting
+## Equipment maintenance
+## Calibration of METTER TOLEDO Module
 
 
 
@@ -80,3 +116,6 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 ## Video Demonstration
 
 [![Seira-5 Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1586972262/video_to_markdown/images/youtube--PBjU6Q8gqEs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PBjU6Q8gqEs "Seira-5 Demonstration")
+
+## Support
+
