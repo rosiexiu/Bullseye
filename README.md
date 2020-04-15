@@ -37,21 +37,19 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  - Support
  
  ### Equipment Startup and Shutdown
- /***
-| __Startup__ | 1.Connect the Compressing air and GND of the equipment, and connect the power of the equipment.
-2.Turn the emergency switch on the left side of the chassis 90 degrees clockwise to turn on the main power of the equipment.
-3.Turn the emergency button on the front of the case clockwise, the button will pop up automatically and connect the control power of the equipment.
-4.Push the hand valve inward to turn on the air pressure.
-5.Press the monitor power button to turn on the monitor.
-6.The computer of the equipment automatically starts to enter the system.
-7.Double click to run the software and log in the account.
-8.Click the red MANUAL in the Operation Monitoring to make it green Automation, and then click Reset to wait for the red light above the equipment to go out.|
-|-------------|------------|
-| __Shutdown__| 1. Click the X button in the navigation bar at the top right to exit the software.
-2. Turn off the power of the host from the start, and press the power button of the monitor to turn off the power.
-3. Push the valve outward to close the air pressure.
-4. Press the emergency stop button on the front of the chassis to turn off the power of the equipment.
-5. Turn the emergency stop switch on the left side of the chassis 90 degrees anticlockwise to turn off the main power supply of the equipment. When there is a powder, the power-off time should not exceed 30 minutes.| 
+
+/***
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Animals} & \textbf{Sports}  & \textbf{Fruits} \\ \hline
+Cat     & Soccer     & Apple  \\ \hline
+Dog     & Basketball & Orange \\ \hline
+\end{tabular}
+\end{table}
 ***/
  
  
@@ -59,6 +57,17 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  
  
  
- 
-[![Seira-5 Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1586947682/video_to_markdown/images/youtube--PBjU6Q8gqEs-4834888bcd2b4555e72811f2a6951e10.jpg)](https://youtu.be/PBjU6Q8gqEs "Seira-5 Demonstration")
+[![Seira-5 Demonstrati/***
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Animals} & \textbf{Sports}  & \textbf{Fruits} \\ \hline
+Cat     & Soccer     & Apple  \\ \hline
+Dog     & Basketball & Orange \\ \hline
+\end{tabular}
+\end{table}
+***/on](https://res.cloudinary.com/marcomontalbano/image/upload/v1586947682/video_to_markdown/images/youtube--PBjU6Q8gqEs-4834888bcd2b4555e72811f2a6951e10.jpg)](https://youtu.be/PBjU6Q8gqEs "Seira-5 Demonstration")
 
