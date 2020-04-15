@@ -39,6 +39,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  
  ## Equipment Startup and Shutdown
 
+
 1. Connect the Compressing air and GND of the equipment, and connect the power of the equipment.
 
 2.Turn the emergency switch on the left side of the chassis 90 degrees clockwise to turn on the main power of the equipment.
