@@ -4,7 +4,7 @@ The Instruction Manual of Seira-5 by Bullseye/ Manufacturing Seira-5 for Process
 
 This is an instruction manual of a "weight-fill & auto dispensing precision powder equipment" and its inner "manual weigh fill helper software" invented by Shenzhen Bullseye Dosing Technology Co., Ltd. 
 
-## Weighing & Dispensing 
+# Weighing & Dispensing 
 
 Weighing and Dispensing the right quantity of material prior to the manufacturing process is a key activity in LED Packaging and other process industries. The process is critical when operating with LED phosphor powders which exhibit the phenomenon of luminescence in making mixture of A/B Glues and the powders. Decimal errors in the "glue and powder mixture" calculation would not be able to tune phosphors for better white light. Advances in the weighing boost the efficiency and appeal better light in LED bulbs. Companies pre weigh materials to aim for better color of LED lights and to assure rapid delivery at the critical stages of the LED packaging process.
 
@@ -36,7 +36,24 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  - Video demonstration
  - Support
  
- ### Equipment Startup and Shutdown
+ 
+ ## Equipment Startup and Shutdown
+
+1. Connect the Compressing air and GND of the equipment, and connect the power of the equipment.
+
+2.Turn the emergency switch on the left side of the chassis 90 degrees clockwise to turn on the main power of the equipment.
+
+3.Turn the emergency button on the front of the case clockwise, the button will pop up automatically and connect the control power of the equipment.
+
+4.Push the hand valve inward to turn on the air pressure.
+
+5.Press the monitor power button to turn on the monitor.
+
+6.The computer of the equipment automatically starts to enter the system.
+
+7.Double click to run the software and log in the account.
+
+8.Click the red **MANUAL** in the **Operation Monitoring** to make it green **Automation**, and then click **Reset** to wait for the red light above the equipment to go out.
 
 
 
