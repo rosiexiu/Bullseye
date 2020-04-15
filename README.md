@@ -17,6 +17,8 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
   - Label Printing 
   - Equipment Maintenance
   
+  <video src="Seira-5.mp4" width="320" height="200" controls preload></video>
+  
   This Manual covers the following topics:
   
  - Equipment startup and shutdown
