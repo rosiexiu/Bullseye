@@ -242,8 +242,8 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 5. Click the **Big Valve**, click the **Zero**, and the blanking test, you will get a reading of the test weight, and fill this value in the reserved column 1.
 
 6. Click the **Small Valve**, click the **Zero** and the blanking test, and a test weight reading will be obtained, which should be controlled at 0.2-0.6g,
-       - If it is more than 0.6g, replace the smaller nozzle of the valve or adjust the air pressure of the air pressure gauge to reduce, and then test again.
-       - If it is less than 0.2g, replace the larger nozzle of the valve or adjust the air pressure of the air pressure gauge, and then test again.
+   - If it is more than 0.6g, replace the smaller nozzle of the valve or adjust the air pressure of the air pressure gauge to reduce, and then test again.
+   - If it is less than 0.2g, replace the larger nozzle of the valve or adjust the air pressure of the air pressure gauge, and then test again.
 
 7. Fill the reading of the test in the reserved column 2 on the right, and multiply the value of the reserved column 2 by 2 times to fill in the reserved column 3.
 
