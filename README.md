@@ -1,10 +1,10 @@
-# -Seira-5-Instruction-Manual
+# Seira-5 Instruction Manual
 
 The Instruction Manual of Seira-5 by Bullseye/ Manufacturing Seira-5 for Process Manufacturing User's Guide @ Bullseye
 
-#This is an instruction manual of a "weight-fill & auto dispensing precision powder equipment" and its inner "manual weigh fill helper software" invented by Shenzhen Bullseye Dosing Technology Co., Ltd. 
+This is an instruction manual of a "weight-fill & auto dispensing precision powder equipment" and its inner "manual weigh fill helper software" invented by Shenzhen Bullseye Dosing Technology Co., Ltd. 
 
-Weighing & Dispensing 
+## Weighing & Dispensing 
 
 Weighing and Dispensing the right quantity of material prior to the manufacturing process is a key activity in LED Packaging and other process industries. The process is critical when operating with LED phosphor powders which exhibit the phenomenon of luminescence in making mixture of A/B Glues and the powders. Decimal errors in the "glue and powder mixture" calculation would not be able to tune phosphors for better white light. Advances in the weighing boost the efficiency and appeal better light in LED bulbs. Companies pre weigh materials to aim for better color of LED lights and to assure rapid delivery at the critical stages of the LED packaging process.
 
