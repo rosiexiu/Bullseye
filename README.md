@@ -42,19 +42,19 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 1. Connect the Compressing air and GND of the equipment, and connect the power of the equipment.
 
-2.Turn the emergency switch on the left side of the chassis 90 degrees clockwise to turn on the main power of the equipment.
+2. Turn the emergency switch on the left side of the chassis 90 degrees clockwise to turn on the main power of the equipment.
 
-3.Turn the emergency button on the front of the case clockwise, the button will pop up automatically and connect the control power of the equipment.
+3. Turn the emergency button on the front of the case clockwise, the button will pop up automatically and connect the control power of the equipment.
 
-4.Push the hand valve inward to turn on the air pressure.
+4. Push the hand valve inward to turn on the air pressure.
 
-5.Press the monitor power button to turn on the monitor.
+5. Press the monitor power button to turn on the monitor.
 
-6.The computer of the equipment automatically starts to enter the system.
+6. The computer of the equipment automatically starts to enter the system.
 
-7.Double click to run the software and log in the account.
+7. Double click to run the software and log in the account.
 
-8.Click the red **MANUAL** in the **Operation Monitoring** to make it green **Automation**, and then click **Reset** to wait for the red light above the equipment to go out.
+8. Click the red **MANUAL** in the **Operation Monitoring** to make it green **Automation**, and then click **Reset** to wait for the red light above the equipment to go out.
 
 
 
