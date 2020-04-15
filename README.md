@@ -85,23 +85,175 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 ### Scanning Powdering
 
+1. Log in the account to enter the **Operation Monitoring**.
+
+2. When the equipment is in standby mode, click the **Feeding** button to enter the Feeding interface.
+
+3. Click the input on the right side of the barcode scanning area, and then to scan the barcode on the powder bottle. The powder loading funnel of the scanned barcode will automatically move to the powder Feeding port, and the powder Feeding light will be green, with an audible prompt.
+
+4. Open the glass window, remove the inner cover and add the powder, then close the glass window with the inner cover.
+
+5. Click the **Feeding Completion**, pop up the powder Feeding weight box, and enter the weight in the powder Feeding weight column.
+
+6. Click **OK**, the powder funnel will automatically move back to the origin, and the powder Feeding is completed.
+
+7. If the powder in the powder funnel is very small before Feeding powder, and it has exposed the discharge port of the powder funnel, it is necessary to discharge the powder 2 to 10 times, each time the weight is 2g to 5g.
+
 ### Manual Powdering
+
+
+1. In the case of no scanning gun, click the **Moving Position** behind the powder to be added, the powder loading funnel will automatically move to the powder Feeding port, the powder Feeding position light will be green, with an audible prompt.
+
+2. Open the glass window, remove the inner cover and add the powder, then close the glass window with the inner cover. Enter the weight of the remaining powder in the powder funnel in the input box of the weight column corresponding to the added material. Note that the input value cannot be more than that in the actual powder funnel, and it can be slightly less.
+
+3. Open the glass window, remove the inner cover and add the powder of the scanned barcode, then close the glass window with the inner cover.
+
+4. Click **Add Completion** to finish, pop up the add powder weight box, and enter the add powder weight in the added powder weight column.
+
+5. Click **OK**, the powder funnel will automatically move back to the origin, and the powder Feeding is completed.
+
+6. If the powder in the powder funnel is small before Feeding powder, and it has exposed the discharge port of the powder funnel, it is necessary to discharge the powder 2 to 10 times, each time the weight is 2G to 5g.
+
 
 ### Scanning Glue
 
+1. When the equipment is in standby mode, click the **Feeding** button in the interface to enter the charging interface.
+
+2. Click the input field on the right side of the barcode scanning area, and then use the scanning gun to scan the barcode on the plastic bottle. The air pressure in the corresponding glue tank will be discharged, and the air pressure light of the glue in the interface will be red.
+
+3. After venting, open the sealing cover and pour it in A/B glue.
+
+4. Close the sealing cover, click the **Feeding completion**, pop up the glue Feeding weight box, and enter the glue Feeding weight in the glue Feeding weight column.
+
+5. Click **OK**, the air pressure will be automatically added into the tank, and the filling is completed.
+
+
 ### Manual Glue
+1. If there is no scanning gun, open the **Material Valve** behind the glue, the air pressure in the corresponding glue tank will be discharged, and the air pressure light of the glue in the interface will be red.
+
+2. After venting, open the sealing cover and pour in A/B glue,
+
+3. Close the sealing cover, click the **Feeding completion**, pop up the glue Feeding weight box, and enter the glue Feeding weight in the glue Feeding weight column.
+
+4. Click **OK**, the air pressure will be automatically added into the tank, and the filling is completed
 
 
-## How to generate the formula
+
+## Formulas
+
+1. Click **Recipe Management-Management** to enter the recipe management interface, and then click a new recipe.
+2. Enter the recipe name in the recipe name column, select the material in the code column, and enter the corresponding weight in the weight column. After input, click **Save**.
+3. To modify the recipe, double-click the recipe to be modified, and then modify the material weight to be modified. After modification, click **Save**.
+4. To delete a recipe, double-click the recipe, and then click **Delete**.
 
 ## Operation
 
+1. Select the recipe to be produced in the automatic mode, click the **Print Barcode**, and paste the printed label to the proper position of the cup.
+
+2. Open the door of the cup feeding conveyor belt, put the cap on the cup feeding conveyor belt (the label direction is inward), and put 3 to 5 cups at the same time.
+
+3. Click **Start**, the green light will be on when the equipment status bar is running, and the green light will be on, and the ingredients will be started.
+
+4. After finishing, the cup will be moved to the outgoing conveyor belt. When the green light flashes, check that the indicator in the small door is off and the buzzer is always on. At this time, open the outgoing conveyor to take out the cup.
+
+
 ## How to clean powder feeder
+
+1. In the manual mode, enter The **Technician Debugging - > Powder Debugging**, and select the powder to be cleaned in the powder selection column.
+
+2. Click the **Remove** key in the position control bar to wait for the powder loading funnel to move to the material level, open the observation door, and put the clean cup on the power balance.
+
+3. Enter a larger value in the set weight column (to discharge all the powder in the powder funnel).
+
+4. Click the **Start** button to start removing, and take out the cup after completion.
+
+5. If there is powder left in the powder loading funnel, continue to repeat steps 2 to 4 until all the powder in the powder loading funnel is discharged.
+
+6. After all, the powder in the powder loading funnel is discharged, open the powder Feeding glass window to remove the inner cover and wipe the inner wall of the powder loading funnel with a dust-free towel.
+
+7. Use a vacuum cleaner to aim at the discharge port of the powder loading funnel, and the air gun to aim at the discharge port of the powder feeder. Open the vacuum cleaner first and then the air gun. Be sure to clean the mouth of the vacuum cleaner before suction. When the air gun blows, the air pressure should not be too high at the beginning.
+
+8. In turn, use a vacuum cleaner to aim at the discharge port of the powder feeder, and an air gun to aim at the discharge port of the powder loading funnel for cleaning (repeat steps 8 and 9 for 3 times).
+
+9. The cleaning cycle is once a month. According to the properties of the different powder, the cleaning cycle can be appropriately prolonged or shortened.
 
 ## Powder parameter Setting
 
+1. In the manual mode, enter **The Technician Debugging - > Powder Debugging**, and select the powder in the powder information column.
+2. Click the **Remove** key in the position control bar to wait for the powder loading funnel to move to the material level, open the observation door, and put the clean cup on the power balance.
+
+3. Input the weight in the set weight column, generally 1g to 10g. It is better to input the weight often used by the powder, and then click **Start**.
+
+4. After powder removing, check whether the operation time is between the 60s and 200s, and if the quantity is large, extend the time appropriately; check whether the deviation value is within the allowable error value; if the time or the deviation value is not within the required range, adjust the gear.
+
+5. There are 14 levels in the selection. The first level is the fastest and the 14th is the slowest.
+
+6. The deviation value is within the allowable error range. If the time is too long, adjust to the fast gear; if the time is too short, adjust to the slow gear.
+
+7. This deviation exceeds the allowable error range. If the time is too long, adjust to the fast gear; if the time is too short, adjust to the slow gear.
+
+8. After the adjustment, repeat the test 10 times. If there is no error beyond the allowable error or the time is too long or too short, the powder debugging is completed.
+
+
+
 ## How to clean glue feeder
+
+1. In the manual mode, enter **the technician debugging - > glue debugging**, and click the N glue key to enter the glue debugging interface.
+
+2. Click the **Removing** key, the indicator turns green when it is in place, open the observation door, and put the clean cup on the scale.
+
+3. Enter a larger value in the set weight column (to discharge all the glue in the glue tank).
+
+4. Click the **Auto Start button** to start blanking, and take out the cup after completion.
+
+5. If there is glue left in the glue tank, continue to repeat steps 3 to 4 until all the glue in the glue tank is discharged.
+
+6. Confirm that the glue in the glue tank has been drained, turn off the air pressure, open the sealing cover of the glue tank, pour in 1 / 3 of the glass tank cleaning solution, put on the rubber gloves, and wipe the glass tank and the rubber tube in the glass tank with the cleaning solution.
+
+7. Close the sealing cover, open the air pressure, and adjust the pressure gauge of the valve. Do not adjust the air pressure too much when cleaning. It is better to adjust the air pressure below 0.05Mpa to avoid splashing when the air pressure is too high.
+
+8. Take off the nozzle of the valve and put it into the cleaning solution for soaking and cleaning. Put on the cleaning pipe of the valve, insert the other end of the cleaning pipe into the plastic bottle and fix it by hand. The plastic bottle should not be too small to avoid the overflow of too much cleaning solution.
+
+9. Click the **Drain** in the interface to turn it green, open the valve to drain the detergent, make sure there is detergent flowing out of the valve cleaning pipe, and then click the Drain again to close the valve.
+
+10. Repeatedly and intermittently click the **Start** and **Stop** to make the cleaning pipe intermittently discharge the cleaning liquid.
+
+11. After the cleaning solution in the rubber tank is drained, add a clean cleaning solution again for cleaning, and repeat for 3 times.
+
+12. After the third discharge, open the rubber tank, clean the cleaning liquid in the tank with a dust-free cloth, and cover the sealing cover.
+
+13. Adjust the pressure gauge to adjust the air pressure to 0.4MPa, click **Auto Start**, make it exhaust air for 2-10min, remove the residual cleaning liquid in the pipe, click **Auto Stop** to remove the cleaning pipe, install the valve nozzle, and the cleaning is finished.
+
+14. Replace the glue delivery pipe if necessary.
+
+15. The cleaning cycle is once a year, or when different models of glue need to be replaced. Do not change the parameters on the glue page during cleaning.
+
 ## Glue parameter Setting 
+
+### Adjustment
+
+1. In manual mode, enter **the Technician Debugging - > Glue Debugging**, click the N Glue key to enter the glue debugging interface.
+
+2. Click the **Removing** key, the indicator turns green when it is in place, open the observation door, and put the clean cup on the scale.
+
+3. Click the **Drain Start** button to drain the glue until there is no bubble, and then click **Drain Stop**.
+4. Set the test times in the manual test column to 1, the interval time to 1000, and the blanking time to 6000.
+
+5. Click the **Big Valve**, click the **Zero**, and the blanking test, you will get a reading of the test weight, and fill this value in the reserved column 1.
+
+6. Click the **Small Valve**, click the **Zero** and the blanking test, and a test weight reading will be obtained, which should be controlled at 0.2-0.6g,
+       - If it is more than 0.6g, replace the smaller nozzle of the valve or adjust the air pressure of the air pressure gauge to reduce, and then test again.
+       - If it is less than 0.2g, replace the larger nozzle of the valve or adjust the air pressure of the air pressure gauge, and then test again.
+
+7. Fill the reading of the test in the reserved column 2 on the right, and multiply the value of the reserved column 2 by 2 times to fill in the reserved column 3.
+
+8. Set the value blanking time in the data setting column: 1,000; waiting time 3,000; end waiting time 2,000; timeout 300,000; start waiting time 1,000; glue dropping time 0; blanking detection time 10,000; blanking detection weight 0.1.
+
+9. The allowable error is set as the maximum error allowed by the process requirements.
+
+10. Input the setting weight in the setting weight column, generally 5g to 20g, click the Zero, click the **Automatic Start**, and observe whether the glue error is within the allowable error range.
+
+
 ## Record View
 ## Alarms and Resetting
 ## Equipment maintenance
