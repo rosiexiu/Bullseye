@@ -39,6 +39,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  
  ## Equipment Startup and Shutdown
 
+### How to Startup
 
 1. Connect the Compressing air and GND of the equipment, and connect the power of the equipment.
 
@@ -56,8 +57,26 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 8. Click the red **MANUAL** in the **Operation Monitoring** to make it green **Automation**, and then click **Reset** to wait for the red light above the equipment to go out.
 
+### How to Shutdown
+
+1. Click the **X** button in the navigation bar at the top right to exit the software.
+
+2. Turn off the power of the host from the start, and press the power button of the monitor to turn off the power.
+
+3. Push the valve outward to close the air pressure.
+
+4. Press the emergency stop button on the front of the chassis to turn off the power of the equipment.
+
+5. Turn the emergency stop switch on the left side of the chassis 90 degrees anticlockwise to turn off the main power supply of the equipment. When there is a powder, the power-off time should not exceed 30 minutes.
 
 
 
+
+
+
+
+
+
+## Video Demonstration
 
 [![Seira-5 Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1586972262/video_to_markdown/images/youtube--PBjU6Q8gqEs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PBjU6Q8gqEs "Seira-5 Demonstration")
