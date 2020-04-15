@@ -10,12 +10,12 @@ Weighing and Dispensing the right quantity of material prior to the manufacturin
 
 Seira-5 lets you produce the mixture in several modes of operation with full label printing capabilities. Functionality supported includes:
 
-A. Weighing and Dispensing Modes
-B. METTLER TOLEDO Weigh Module (accurate to 0.0001)
-C. Tolerances
-D. Operating Alarm Prompt
-E. Label Printing 
-F. Equipment Maintenance
+- A. Weighing and Dispensing Modes
+- B. METTLER TOLEDO Weigh Module (accurate to 0.0001)
+- C. Tolerances
+- D. Operating Alarm Prompt
+- E. Label Printing 
+- F. Equipment Maintenance
   
   
   This Manual covers the following topics:
