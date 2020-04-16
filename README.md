@@ -255,9 +255,26 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 
 ## Record View
+
+1. Enter the data record interface, select the start time, end time, batching result and record type, click query, or click export to excel file.
+
 ## Alarms and Resetting
+
 ## Equipment maintenance
+
 ## Calibration of METTER TOLEDO Module
+
+1. Click the scale calibration in the monitoring interface to enter the scale calibration.
+
+2. If there is no weight on the scale, click the **Zero**.
+
+3. Click **Start Calibration**.
+
+4. Put the weight according to the prompts. When placing the weight, it is forbidden to touch the weight directly by hand. Take it with tweezers or dust-free cloth, handle it gently, put the weight in the center of the balance pan as far as possible, and close the observation door gently after placing.
+
+5. Take out the weight according to the prompts and close the observation door gently.
+
+6. After the calibration is completed, put the weight on the balance again and weigh it to see if the error is within the allowable range. Click **Record the Calibration Result** and record the calibration result. If the error exceeds the allowable error, recalibrate it.
 
 
 
@@ -271,3 +288,4 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 ## Support
 
+Shenzhen Bullseye Dosing Technology Co., Ltd provides diagnostic services and the specific Support services. Bullseye will update this guide from time to time to reflect enhancements to our service and policy updates. If you have any issues during the time of operating the equipment, customers may report the issues by email or by telephone. Our Technology support would get back to you in one business day. Contact information: xxx-xxx-xxxx
