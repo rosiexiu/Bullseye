@@ -70,7 +70,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 5. Turn the emergency stop switch on the left side of the chassis 90 degrees anticlockwise to turn off the main power supply of the equipment. When there is a powder, the power-off time should not exceed 30 minutes.
 
- ## Auto&Manual Mode
+ ## Auto/Manual Mode
  
 1. Enter the technician **Debugging Servo** setting,
 
