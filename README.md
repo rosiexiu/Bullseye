@@ -301,4 +301,4 @@ Seira-5 lets you produce mixture in different formulas of operation with full la
 
 ## Customer Support
 
-Shenzhen Bullseye Dosing Technology Co., Ltd provides diagnostic services and the specific Support services. Bullseye will update this guide from time to time to reflect enhancements to our service and policy updates. If you have any issues during the time of operating the equipment, customers may report the issues by email or by telephone. Our Technology support would get back to you in one business day. Contact information: xxx-xxx-xxxx
+Shenzhen Bullseye Dosing Technology Co., Ltd provides diagnostic services and the specific Support services. Bullseye will update this guide from time to time to reflect enhancements to our service and policy updates. If you have any issues during the time of operating the equipment, customers may report the issues by email or by telephone. Our Technology support would get back to you in one business day. Contact information: +86 18676700269
