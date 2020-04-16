@@ -21,7 +21,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
   
  ### This Manual covers the following topics:
   
- - Equipment startup and shutdown
+ - [Equipment startup and shutdown](#equipment-startup-and-shutdown)
  - Auto/Manual Mode
  - How to fill the materials
  - Generate the formula
