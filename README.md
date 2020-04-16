@@ -22,20 +22,20 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  ### This Manual covers the following topics:
   
  - [Equipment startup and shutdown](#equipment-startup-and-shutdown)
- - [Auto/Manual Mode](#auto/manual-mode)
+ - [Auto&Manual Mode](#auto&manual-mode)
  - [Materials Feeding](#materials-feeding)
- - [Formulas](formulas)
- - [Operation](operation)
- - [How to clean powder feeder](how-to-clean-powder-feeder)
- - [Powder parameter Setting](powder-parameter-setting)
- - [How to clean glue feeder](how-to-clean-glue-feeder)
- - [Glue parameter Setting ](glue-parameter-setting)
- - [Record View](record-view)
- - [Alarm and Resetting](alarm-and-resetting)
- - [Equipment maintenance](equipment-maintenance)
- - [Calibration of METTLER TOLEDO Weigh Module](calibration-of-mettler-toledo-weigh-module)
- - [Video Demonstration](video-demonstration)
- - [Customer Support](customer-support)
+ - [Formulas](#formulas)
+ - [Operation](#operation)
+ - [How to clean powder feeder](#how-to-clean-powder-feeder)
+ - [Powder parameter Setting](#powder-parameter-setting)
+ - [How to clean glue feeder](#how-to-clean-glue-feeder)
+ - [Glue parameter Setting ](#glue-parameter-setting)
+ - [Record View](#record-view)
+ - [Alarm and Resetting](#alarm-and-resetting)
+ - [Equipment maintenance](#equipment-maintenance)
+ - [Calibration of METTLER TOLEDO Weigh Module](#calibration-of-mettler-toledo-weigh-module)
+ - [Video Demonstration](#video-demonstration)
+ - [Customer Support](#customer-support)
  
  
  ## Equipment Startup and Shutdown
@@ -70,7 +70,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 5. Turn the emergency stop switch on the left side of the chassis 90 degrees anticlockwise to turn off the main power supply of the equipment. When there is a powder, the power-off time should not exceed 30 minutes.
 
- ## Auto/Manual Mode
+ ## Auto&Manual Mode
  
 1. Enter the technician **Debugging Servo** setting,
 
