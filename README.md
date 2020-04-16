@@ -261,7 +261,11 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 ## Alarms and Resetting
 
+
+<p align="center">
 ![AlarmSetting](AlarmSetting.png)
+</p>
+
 
 ## Equipment maintenance
 
