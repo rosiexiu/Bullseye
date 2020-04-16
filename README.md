@@ -9,7 +9,7 @@ This is an instruction manual of a "weight-fill & auto dispensing precision powd
 
 Weighing and Dispensing the right quantity of material prior to the manufacturing process is a key activity in LED Packaging and other process industries. The process is critical when operating with LED phosphor powders which exhibit the phenomenon of luminescence in making mixture of A/B Glues and the powders. Decimal errors in the "glue and powder mixture" calculation would not be able to tune phosphors for better white light. Advances in the weighing boost the efficiency and appeal better light in LED bulbs. Companies pre weigh materials to aim for better color of LED lights and to assure rapid delivery at the critical stages of the LED packaging process.
 
-Seira-5 lets you produce the mixture in several modes of operation with full label printing capabilities. Functionality supported includes:
+Seira-5 lets you produce mixture in different formulas of operation with full label printing capabilities. Functionality supported includes:
 
 - Weighing and Dispensing Modes
 - METTLER TOLEDO Weigh Module (accurate to 0.0001)
