@@ -23,7 +23,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
   
  - [Equipment startup and shutdown](#equipment-startup-and-shutdown)
  - [Auto/Manual Mode](#auto/manual-mode)
- - [How to fill the materials](how-to-fill-the-materials)
+ - [Materials Feeding](materials-feeding)
  - Generate the formula
  - Batching operation
  - How to clean phosphor feeder
