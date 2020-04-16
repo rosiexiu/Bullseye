@@ -22,8 +22,8 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  ### This Manual covers the following topics:
   
  - [Equipment startup and shutdown](#equipment-startup-and-shutdown)
- - Auto/Manual Mode
- - How to fill the materials
+ - [Auto/Manual Mode](#auto/manual-mode)
+ - [How to fill the materials](how-to-fill-the-materials)
  - Generate the formula
  - Batching operation
  - How to clean phosphor feeder
@@ -267,6 +267,11 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 
 ## Equipment maintenance
+
+
+![EquipmentM](/Image/EquipmentM.png)
+
+
 
 ## Calibration of METTER TOLEDO Module
 
