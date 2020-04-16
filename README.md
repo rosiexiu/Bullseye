@@ -24,18 +24,18 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
  - [Equipment startup and shutdown](#equipment-startup-and-shutdown)
  - [Auto/Manual Mode](#auto/manual-mode)
  - [Materials Feeding](#materials-feeding)
- - Generate the formula
- - Batching operation
- - How to clean phosphor feeder
- - Phosphors parameter adjustment
- - How to clean glue feeder
- - Glue parameter adjustment 
- - Viewing the dispensed material activity details
- - Alarm prompt and how to stop the prompt
- - Equipment maintenance
- - How to calibrate the METTLER TOLEDO Weigh Module
- - Video demonstration
- - Support
+ - [Formulas](formulas)
+ - [Operation](operation)
+ - [How to clean powder feeder](how-to-clean-powder-feeder)
+ - [Powder parameter Setting](powder-parameter-setting)
+ - [How to clean glue feeder](how-to-clean-glue-feeder)
+ - [Glue parameter Setting ](glue-parameter-setting)
+ - [Record View](record-view)
+ - [Alarm and Resetting](alarm-and-resetting)
+ - [Equipment maintenance](equipment-maintenance)
+ - [Calibration of METTLER TOLEDO Weigh Module](calibration-of-mettler-toledo-weigh-module)
+ - [Video Demonstration](video-demonstration)
+ - [Customer Support](customer-support)
  
  
  ## Equipment Startup and Shutdown
@@ -273,7 +273,7 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 
 
-## Calibration of METTER TOLEDO Module
+## Calibration of METTER TOLEDO Weigh Module
 
 1. Click the scale calibration in the monitoring interface to enter the scale calibration.
 
@@ -297,6 +297,6 @@ Seira-5 lets you produce the mixture in several modes of operation with full lab
 
 [![Seira-5 Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1586972262/video_to_markdown/images/youtube--PBjU6Q8gqEs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PBjU6Q8gqEs "Seira-5 Demonstration")
 
-## Support
+## Customer Support
 
 Shenzhen Bullseye Dosing Technology Co., Ltd provides diagnostic services and the specific Support services. Bullseye will update this guide from time to time to reflect enhancements to our service and policy updates. If you have any issues during the time of operating the equipment, customers may report the issues by email or by telephone. Our Technology support would get back to you in one business day. Contact information: xxx-xxx-xxxx
