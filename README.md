@@ -1,7 +1,7 @@
 
 # Seira-5 Instruction Manual
 
-The Instruction Manual of Seira-5 by Bullseye/ Manufacturing Seira-5 for Process Manufacturing User's Guide @ Bullseye
+The Instruction Manual of Seira-5 by Bullseye
 
 This is an instruction manual of a "weight-fill & auto dispensing precision powder equipment" and its inner "manual weigh fill helper software" invented by [Shenzhen Bullseye Dosing Technology Co., Ltd](http://baxinkeji-001.d1.nbseo.cn/). 
 
